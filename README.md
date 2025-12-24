@@ -28,7 +28,7 @@
 
 ## 📊 GitHub 统计
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yachenyanyi&show_icons=true&theme=radical)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=yachenyanyi&show_icons=true&theme=radical](https://github-readme-stats-eight-theta.vercel.app/api?username=yachenyanyi&show_icons=true&theme=radical))
 
 ## 🤝 合作与交流
 
